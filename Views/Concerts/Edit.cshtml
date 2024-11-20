@@ -1,0 +1,31 @@
+@model FestivalCarthage.Models.Concert
+
+<h2>Modifier le Concert</h2>
+
+<form asp-action="Edit" asp-route-id="@Model.Id">
+    <div class="form-group">
+        <label for="Nom">Nom</label>
+        <input type="text" class="form-control" id="Nom" name="Nom" value="@Model.Nom" required />
+    </div>
+    <div class="form-group">
+        <label for="Artiste">Artiste</label>
+        <input type="text" class="form-control" id="Artiste" name="Artiste" value="@Model.Artiste" required />
+    </div>
+    <div class="form-group">
+        <label for="DateConcert">Date</label>
+        <input type="date" class="form-control" id="DateConcert" name="DateConcert" value="@Model.DateConcert.ToString("yyyy-MM-dd")" required />
+    </div>
+    <div class="form-group">
+        <label for="HeureConcert">Heure</label>
+        <input type="time" class="form-control" id="HeureConcert" name="HeureConcert" value="@Model.HeureConcert.ToString(@"hh\:mm")" required />
+    </div>
+    <div class="form-group">
+        <label for="Lieu">Lieu</label>
+        <input type="text" class="form-control" id="Lieu" name="Lieu" value="@Model.Lieu" required />
+    </div>
+    <div class="form-group">
+        <label for="Prix">Prix</label>
+        <input type="number" class="form-control" id="Prix" name="Prix" value="@Model.Prix" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Sauvegarder</button>
+</form>
