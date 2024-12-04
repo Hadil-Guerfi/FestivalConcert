@@ -4,23 +4,29 @@
     ViewData["Title"] = "Détails du Concert";
 }
 
-<div class="container mx-auto my-4">
-    <h1 class="text-3xl font-bold text-center text-green-600">@ViewData["Title"]</h1>
+<div class="container py-5">
+    <h1 class="text-3xl font-bold text-center text-green-600 mb-4">@ViewData["Title"]</h1>
 
-    <div class="bg-white p-6 rounded-lg shadow-lg">
-        <h2 class="text-xl font-semibold">Nom : @Model.Nom</h2>
-        <p><strong>Artiste :</strong> @Model.Artiste</p>
-        <p><strong>Date :</strong> @Model.DateConcert.ToString("d")</p>
-        <p><strong>Heure :</strong> @Model.HeureConcert.ToString(@"hh\:mm")</p>
-        <p><strong>Lieu :</strong> @Model.Lieu</p>
-        <p><strong>Prix :</strong> @Model.Prix.ToString("C")</p>
+    <div class="card shadow-lg p-4 rounded-lg bg-white">
+        <h2 class="text-2xl font-semibold text-primary mb-3">@Model.Nom</h2>
+        <div class="row mb-3">
+            <div class="col-md-6">
+                <p><strong>Artiste :</strong> @Model.Artiste</p>
+                <p><strong>Date :</strong> @Model.DateConcert.ToString("d")</p>
+                <p><strong>Heure :</strong> @Model.HeureConcert.ToString(@"hh\:mm")</p>
+            </div>
+            <div class="col-md-6">
+                <p><strong>Lieu :</strong> @Model.Lieu</p>
+                <p><strong>Prix :</strong> @Model.Prix.ToString("C")</p>
+            </div>
+        </div>
     </div>
 
-    <div class="mt-4">
-        <a href="@Url.Action("Edit", "Concerts", new { id = Model.Id })" class="bg-yellow-500 text-white px-4 py-2 rounded-lg hover:bg-yellow-600">
+    <div class="text-center mt-4">
+        <a href="@Url.Action("Edit", "Concerts", new { id = Model.Id })" class="btn btn-warning btn-lg mx-2">
             Modifier
         </a>
-        <a href="@Url.Action("Delete", "Concerts", new { id = Model.Id })" class="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600">
+        <a href="@Url.Action("Delete", "Concerts", new { id = Model.Id })" class="btn btn-danger btn-lg mx-2">
             Supprimer
         </a>
     </div>

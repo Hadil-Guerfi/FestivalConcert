@@ -1,19 +1,30 @@
 @model FestivalCarthage.Models.Concert
 
-<h2>Supprimer le Concert</h2>
+<div class="container py-5">
+    <h2 class="text-center text-danger mb-4">Supprimer le Concert</h2>
+    
+    <h4 class="text-center mb-4">Êtes-vous sûr de vouloir supprimer ce concert ?</h4>
+    
+    <div class="card shadow-sm p-4">
+        <h3 class="text-center text-primary mb-3">@Model.Nom</h3>
+        <div class="row">
+            <div class="col-md-6">
+                <p><strong>Artiste:</strong> @Model.Artiste</p>
+                <p><strong>Date:</strong> @Model.DateConcert.ToString("d")</p>
+                <p><strong>Heure:</strong> @Model.HeureConcert.ToString(@"hh\:mm")</p>
+            </div>
+            <div class="col-md-6">
+                <p><strong>Lieu:</strong> @Model.Lieu</p>
+                <p><strong>Prix:</strong> @Model.Prix.ToString("C")</p>
+            </div>
+        </div>
+    </div>
 
-<h4>Êtes-vous sûr de vouloir supprimer ce concert ?</h4>
-<div>
-    <h3>@Model.Nom</h3>
-    <p>Artiste: @Model.Artiste</p>
-    <p>Date: @Model.DateConcert.ToString("d")</p>
-    <p>Heure: @Model.HeureConcert.ToString(@"hh\:mm")</p>
-    <p>Lieu: @Model.Lieu</p>
-    <p>Prix: @Model.Prix.ToString("C")</p>
+    <div class="text-center mt-4">
+        <form method="post" asp-action="Delete" asp-route-id="@Model.Id">
+            @Html.AntiForgeryToken()
+            <button type="submit" class="btn btn-danger btn-lg">Supprimer</button>
+            <a href="@Url.Action("Index", "Concerts")" class="btn btn-secondary btn-lg ms-3">Annuler</a>
+        </form>
+    </div>
 </div>
-
-<form method="post" asp-action="Delete" asp-route-id="@Model.Id">
-    @Html.AntiForgeryToken()  <!-- Token pour la sécurité CSRF -->
-    <button type="submit" class="btn btn-danger">Supprimer</button>
-    <a href="@Url.Action("Index", "Concerts")" class="btn btn-secondary">Annuler</a>
-</form>

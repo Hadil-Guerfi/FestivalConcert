@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FestivalCarthage
 build_property.RootNamespace = FestivalCarthage
-build_property.ProjectDir = N:\Desktop\3eme ing\tp .net\tp3\FestivalCarthage\
+build_property.ProjectDir = C:\Users\acer\OneDrive\Bureau\Matieres\Dotnet\FestivalCarthage\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = N:\Desktop\3eme ing\tp .net\tp3\FestivalCarthage
+build_property.MSBuildProjectDirectory = C:\Users\acer\OneDrive\Bureau\Matieres\Dotnet\FestivalCarthage
 build_property._RazorSourceGeneratorDebug = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Concerts/Create.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Concerts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Concerts/Delete.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Concerts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Concerts/Details.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Concerts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Concerts/Edit.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Concerts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Concerts/Index.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Concerts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Home/Index.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Home/Privacy.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Shared/Error.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/_ViewImports.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/_ViewStart.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[N:/Desktop/3eme ing/tp .net/tp3/FestivalCarthage/Views/Shared/_Layout.cshtml]
+[C:/Users/acer/OneDrive/Bureau/Matieres/Dotnet/FestivalCarthage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-e9z0zp1tt4

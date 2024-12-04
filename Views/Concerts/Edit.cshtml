@@ -1,31 +1,43 @@
 @model FestivalCarthage.Models.Concert
 
-<h2>Modifier le Concert</h2>
+<div class="container py-5">
+    <h2 class="text-3xl font-bold text-center text-green-600 mb-4">Modifier le Concert</h2>
 
-<form asp-action="Edit" asp-route-id="@Model.Id">
-    <div class="form-group">
-        <label for="Nom">Nom</label>
-        <input type="text" class="form-control" id="Nom" name="Nom" value="@Model.Nom" required />
+    <div class="card shadow-lg p-4 rounded-lg bg-white">
+        <form asp-action="Edit" asp-route-id="@Model.Id">
+            <div class="form-group mb-4">
+                <label for="Nom" class="font-semibold">Nom</label>
+                <input type="text" class="form-control" id="Nom" name="Nom" value="@Model.Nom" required />
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="Artiste" class="font-semibold">Artiste</label>
+                <input type="text" class="form-control" id="Artiste" name="Artiste" value="@Model.Artiste" required />
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="DateConcert" class="font-semibold">Date</label>
+                <input type="date" class="form-control" id="DateConcert" name="DateConcert" value="@Model.DateConcert.ToString("yyyy-MM-dd")" required />
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="HeureConcert" class="font-semibold">Heure</label>
+                <input type="time" class="form-control" id="HeureConcert" name="HeureConcert" value="@Model.HeureConcert.ToString(@"hh\:mm")" required />
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="Lieu" class="font-semibold">Lieu</label>
+                <input type="text" class="form-control" id="Lieu" name="Lieu" value="@Model.Lieu" required />
+            </div>
+
+            <div class="form-group mb-4">
+                <label for="Prix" class="font-semibold">Prix</label>
+                <input type="number" class="form-control" id="Prix" name="Prix" value="@Model.Prix" required />
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-success btn-lg">Sauvegarder</button>
+            </div>
+        </form>
     </div>
-    <div class="form-group">
-        <label for="Artiste">Artiste</label>
-        <input type="text" class="form-control" id="Artiste" name="Artiste" value="@Model.Artiste" required />
-    </div>
-    <div class="form-group">
-        <label for="DateConcert">Date</label>
-        <input type="date" class="form-control" id="DateConcert" name="DateConcert" value="@Model.DateConcert.ToString("yyyy-MM-dd")" required />
-    </div>
-    <div class="form-group">
-        <label for="HeureConcert">Heure</label>
-        <input type="time" class="form-control" id="HeureConcert" name="HeureConcert" value="@Model.HeureConcert.ToString(@"hh\:mm")" required />
-    </div>
-    <div class="form-group">
-        <label for="Lieu">Lieu</label>
-        <input type="text" class="form-control" id="Lieu" name="Lieu" value="@Model.Lieu" required />
-    </div>
-    <div class="form-group">
-        <label for="Prix">Prix</label>
-        <input type="number" class="form-control" id="Prix" name="Prix" value="@Model.Prix" required />
-    </div>
-    <button type="submit" class="btn btn-primary">Sauvegarder</button>
-</form>
+</div>

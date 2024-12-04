@@ -3564,19 +3564,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nousa\\.nuget\\packages\\": {}
+    "C:\\Users\\acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\FestivalCarthage.csproj",
+      "projectUniqueName": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\FestivalCarthage.csproj",
       "projectName": "FestivalCarthage",
-      "projectPath": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\FestivalCarthage.csproj",
-      "packagesPath": "C:\\Users\\Nousa\\.nuget\\packages\\",
-      "outputPath": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\obj\\",
+      "projectPath": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\FestivalCarthage.csproj",
+      "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nousa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3639,7 +3639,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

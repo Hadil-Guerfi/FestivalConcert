@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M+EgkujFfHY41rjO7x1J97HJQXAVdjxs4c5AR3hCOQ0=",
+  "Hash": "lzo1nwqeprx5a5hG5Uh99VQ5JAIG9h+szI62ZDMM+fs=",
   "Source": "FestivalCarthage",
   "BasePath": "_content/FestivalCarthage",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FestivalCarthage\\wwwroot",
       "Source": "FestivalCarthage",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FestivalCarthage.styles.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FestivalCarthage.styles.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Computed",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "FestivalCarthage.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FestivalCarthage.styles.css"
+      "OriginalItemSpec": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FestivalCarthage.styles.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FestivalCarthage.bundle.scp.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FestivalCarthage.bundle.scp.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Computed",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "FestivalCarthage.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FestivalCarthage.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FestivalCarthage.bundle.scp.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\css\\site.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\favicon.ico",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\js\\site.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "FestivalCarthage",
       "SourceType": "Discovered",
-      "ContentRoot": "N:\\Desktop\\3eme ing\\tp .net\\tp3\\FestivalCarthage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\acer\\OneDrive\\Bureau\\Matieres\\Dotnet\\FestivalCarthage\\wwwroot\\",
       "BasePath": "_content/FestivalCarthage",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

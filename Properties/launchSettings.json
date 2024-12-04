@@ -9,6 +9,11 @@
     }
   },
   "profiles": {
+    "FestivalCarthage": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationUrls": "http://0.0.0.0:5247"
+    },
     "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,

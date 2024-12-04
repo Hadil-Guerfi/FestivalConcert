@@ -4,52 +4,55 @@
     ViewData["Title"] = "Create Concert";
 }
 
-<h1>@ViewData["Title"]</h1>
+<h1 class="text-center text-primary mb-4">@ViewData["Title"]</h1>
 
-<form asp-action="Create" method="post">
-    <div class="form-group">
-        <label asp-for="Nom" class="control-label"></label>
-        <input asp-for="Nom" class="form-control" />
-        <span asp-validation-for="Nom" class="text-danger"></span>
+<form asp-action="Create" method="post" class="container bg-light p-5 rounded shadow-sm">
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <label asp-for="Nom" class="form-label">Concert Name</label>
+            <input asp-for="Nom" class="form-control" placeholder="Enter concert name" />
+            <span asp-validation-for="Nom" class="text-danger"></span>
+        </div>
+        <div class="col-md-6">
+            <label asp-for="Artiste" class="form-label">Artist</label>
+            <input asp-for="Artiste" class="form-control" placeholder="Enter artist name" />
+            <span asp-validation-for="Artiste" class="text-danger"></span>
+        </div>
     </div>
 
-    <div class="form-group">
-        <label asp-for="Artiste" class="control-label"></label>
-        <input asp-for="Artiste" class="form-control" />
-        <span asp-validation-for="Artiste" class="text-danger"></span>
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <label asp-for="DateConcert" class="form-label">Concert Date</label>
+            <input asp-for="DateConcert" class="form-control" type="date" />
+            <span asp-validation-for="DateConcert" class="text-danger"></span>
+        </div>
+        <div class="col-md-6">
+            <label asp-for="HeureConcert" class="form-label">Concert Time</label>
+            <input asp-for="HeureConcert" class="form-control" type="time" />
+            <span asp-validation-for="HeureConcert" class="text-danger"></span>
+        </div>
     </div>
 
-    <div class="form-group">
-        <label asp-for="DateConcert" class="control-label"></label>
-        <input asp-for="DateConcert" class="form-control" />
-        <span asp-validation-for="DateConcert" class="text-danger"></span>
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <label asp-for="Lieu" class="form-label">Venue</label>
+            <input asp-for="Lieu" class="form-control" placeholder="Enter venue location" />
+            <span asp-validation-for="Lieu" class="text-danger"></span>
+        </div>
+        <div class="col-md-6">
+            <label asp-for="Prix" class="form-label">Ticket Price</label>
+            <input asp-for="Prix" class="form-control" placeholder="Enter ticket price" type="number" step="0.01" />
+            <span asp-validation-for="Prix" class="text-danger"></span>
+        </div>
     </div>
 
-    <div class="form-group">
-        <label asp-for="HeureConcert" class="control-label"></label>
-        <input asp-for="HeureConcert" class="form-control" />
-        <span asp-validation-for="HeureConcert" class="text-danger"></span>
-    </div>
-
-    <div class="form-group">
-        <label asp-for="Lieu" class="control-label"></label>
-        <input asp-for="Lieu" class="form-control" />
-        <span asp-validation-for="Lieu" class="text-danger"></span>
-    </div>
-
-    <div class="form-group">
-        <label asp-for="Prix" class="control-label"></label>
-        <input asp-for="Prix" class="form-control" />
-        <span asp-validation-for="Prix" class="text-danger"></span>
-    </div>
-
-    <div class="form-group">
-        <button type="submit" class="btn btn-primary">Create</button>
+    <div class="form-group text-center">
+        <button type="submit" class="btn btn-success btn-lg">Create Concert</button>
     </div>
 </form>
 
-<div>
-    <a href="@Url.Action("Index")">Back to List</a>
+<div class="text-center mt-4">
+    <a href="@Url.Action("Index")" class="btn btn-link">Back to Concert List</a>
 </div>
 
 @section Scripts {
